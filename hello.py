@@ -1,4 +1,4 @@
 class hello:
-    __init__(self):
+    def __init__(self):
         print("Hello")
 Obj1=hello()
